@@ -24,7 +24,7 @@ function App() {
         description: 'RasoiMate is your AI-powered cooking companion. Enter your ingredients and cuisine preference, and it instantly creates a unique, step-by-step recipe—turning whatever’s in your kitchen into something delicious.',
         imageUrl: 'https://placehold.co/400x250/2563eb/ffffff?text=Project+2',
         link: 'https://github.com/Arup03NITRR/RasoiMate',
-        liveUrl: 'hhttps://github.com/Arup03NITRR/RasoiMate',
+        liveUrl: 'https://github.com/Arup03NITRR/RasoiMate',
       },
       {
         id: 3,
